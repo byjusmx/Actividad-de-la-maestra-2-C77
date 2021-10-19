@@ -10,7 +10,7 @@ export default class IssLocationScreen extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Pantalla localización EEI!</Text>
+                <Text>¡Pantalla localización EEI!</Text>
             </View>
         )
     }
