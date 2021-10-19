@@ -1,2 +1,2 @@
-# ISS-Tracker-2
-reference code for c77
+# Rastreador-EEI-2
+Código de referencia c77
